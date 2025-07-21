@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinurin" alt="dinurin" /></a> </p>
 
-- 🌱 I’m currently learning **React, Tailwind CSS and AWS Cloud Technologies**
+- 🌱 I’m currently learning about automation, CI/CD pipelines, Docker, containerization technologies, and AWS Cloud Technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
