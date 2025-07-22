@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dinuri!</h1>
-<h3 align="center">I am a Software Engineering undergraduate at Sri Lanka Institute of Information Technology (SLIIT). I am passionate about full-stack development, devops and automation. My interests lie in building efficient, scalable, and user-friendly applications.</h3>
+<h3 align="center">I am a Software Engineering undergraduate at SLIIT. I'm passionate about full-stack development, devops and automation. My interests lie in building efficient, scalable, and user-friendly applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinurin" alt="dinurin" /></a> </p>
 
