@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning automation, CI/CD pipelines, Docker, containerization technologies, and AWS Cloud Technologies.
+🌱 My current focus is on learning and contributing to IBM Business Automation Workflow (BAW), where I am gaining hands-on exposure to process modeling, workflow automation, and approval-based business flows.
 
 
 ## 🌐 Socials:
